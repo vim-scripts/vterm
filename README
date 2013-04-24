@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4546
+
+The goal of vterm is to provide a clone of unix terminal inside vim right out of the box without any dependencies.
+
+To start using it, just run :VTermStart
+
+Please read the doc for more details and configurations or visit the github repo
+https://github.com/sollidsnake/vterm
